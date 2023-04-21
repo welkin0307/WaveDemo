@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//一维流体模拟代码
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
